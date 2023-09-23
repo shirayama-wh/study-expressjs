@@ -1,0 +1,3 @@
+.vagrant
+999.work/*
+!999.work/Vagrantfile
