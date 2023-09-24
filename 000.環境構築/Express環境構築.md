@@ -63,7 +63,7 @@ npm install express
 ```
 
 ## Hello World!
-下記のapp.jsを作成
+下記のindex.jsを作成
 
 ```js
 const express = require('express')
@@ -82,7 +82,7 @@ app.listen(port, () => {
 実行コマンド
 
 ```
-node app.js
+node index.js
 ```
 
 http://192.168.33.15:3000/
